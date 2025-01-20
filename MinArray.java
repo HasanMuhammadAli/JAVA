@@ -16,6 +16,7 @@ class MinArray{
 				min = arr[i];
 
 		}
+		scn.close();
 		System.out.println("Min = "+min);
  	}	
 }
