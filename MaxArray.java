@@ -16,5 +16,13 @@ public class MaxArray {
         for(i=0;i<5;i++){
             System.out.print(arr[i]+" ");
         }
+        System.out.println();
+        // finding the max from array
+        int max = arr[0];
+        for(i=1;i<5;i++){
+            if(max < arr[i])
+                max = arr[i];
+        }
+        System.out.println("Max = "+ max);
     }
 }
