@@ -5,9 +5,11 @@ class MinArray{
 		//declare and initialize array
 		int [] arr = new int[3];
 		int min,i;
+		//taking input from user
 		for(i = 0; i < arr.length;i++){
 			arr[i] = scn.nextInt();
 		}
+		//finding minimum
 		min = arr[0];
 		for(i = 1; i < arr.length;i++){
 			if(min > arr[i])
