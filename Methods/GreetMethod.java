@@ -1,3 +1,4 @@
+package Methods;
 public class GreetMethod {
     public static void main(String []args){
         //Call to the Greet fn

@@ -1,3 +1,4 @@
+package Methods;
 class Calculator{
     int a = 5;
     static double add(double num1, double num2){

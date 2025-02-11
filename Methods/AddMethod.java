@@ -1,3 +1,4 @@
+package Methods;
 import java.util.Scanner;
 public class AddMethod {
     public static void main(String[] args) {

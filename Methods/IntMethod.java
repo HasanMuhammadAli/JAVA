@@ -1,3 +1,4 @@
+package Methods;
 import java.util.Scanner;
 public class IntMethod {
     public static void main(String[] args) {
