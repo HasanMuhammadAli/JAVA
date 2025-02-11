@@ -1,3 +1,4 @@
+package Array;
 import java.util.Scanner;
 class Row_Sum_Array{
 	public static void main(String [] args){

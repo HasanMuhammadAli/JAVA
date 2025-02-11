@@ -1,3 +1,4 @@
+package Array;
 class Multi_Dimension_Array{
 	public static void main(String [] args){
 		int arr[][][]={

@@ -1,3 +1,4 @@
+package Array;
 import java.util.Scanner;
 
 public class MaxArray {
@@ -11,7 +12,7 @@ public class MaxArray {
         for(i=0;i<5;i++){
             arr[i] = scn.nextInt();
         }
-        scn.close();
+        
         //Printing the array elements
         for(i=0;i<5;i++){
             System.out.print(arr[i]+" ");
@@ -24,5 +25,6 @@ public class MaxArray {
                 max = arr[i];
         }
         System.out.println("Max = "+ max);
+        scn.close();
     }
 }

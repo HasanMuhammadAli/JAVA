@@ -1,3 +1,4 @@
+package Array;
 import java.util.Scanner;
 class MinArray{
 	public static void main(String args[]){

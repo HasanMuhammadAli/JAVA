@@ -1,3 +1,4 @@
+package Array;
 class Col_Sum_Array{
 	public static void main(String []args){
 		int arr[][]= {

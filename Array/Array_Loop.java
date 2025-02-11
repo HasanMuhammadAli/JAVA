@@ -1,3 +1,4 @@
+package Array;
 public class Array_Loop {
     public static void main(String []args){
         int ages[]={8,14,18,37,42};
