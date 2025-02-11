@@ -1,4 +1,4 @@
-package Braching;
+package Branching;
 import java.util.Scanner;
 public class IfElseifElse {
     public static void main(String[] args) {
