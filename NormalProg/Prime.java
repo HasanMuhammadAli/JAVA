@@ -1,3 +1,4 @@
+package NormalProg;
 class Prime {
     public static void main(String args[]) {
         int n = 100;

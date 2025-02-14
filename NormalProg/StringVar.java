@@ -1,3 +1,4 @@
+package NormalProg;
 public class StringVar {
     public static void main(String[] args) {
         //String is the datatype

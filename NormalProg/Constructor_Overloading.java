@@ -1,6 +1,13 @@
+package NormalProg;
 class Rectangle{
 	int length;
 	int width;
+
+	//This is constructor
+	Rectangle (){
+		length = 20;
+		width = 40;
+	}
 
 	//This is parameterized constructor
 	Rectangle(int length, int width){
@@ -13,14 +20,12 @@ class Rectangle{
 	}
 }
 
-class Object_Assignment{
+class Constructor_Overloading{
 	public static void main(String [] args){
-		Rectangle r_obj1= new Rectangle(10,30);
-		Rectangle r_obj2=r_obj1;
-	
-		if(r_obj1 == r_obj2){
-			System.out.println("Objects are same");
-		}
+		Rectangle r_obj= new Rectangle(10,30);
+		r_obj.getdata();
 		
+		Rectangle r2_obj= new Rectangle();
+		r2_obj.getdata();
 	}
 }

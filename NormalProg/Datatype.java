@@ -1,3 +1,4 @@
+package NormalProg;
 public class Datatype {
     public static void main(String[] args){
         byte b1 = 21;   //byte datatype

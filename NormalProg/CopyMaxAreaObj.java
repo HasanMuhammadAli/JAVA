@@ -1,3 +1,4 @@
+package NormalProg;
 class Rectangle{
 	int length;
 	int width;

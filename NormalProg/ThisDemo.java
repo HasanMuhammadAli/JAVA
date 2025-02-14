@@ -1,3 +1,4 @@
+package NormalProg;
 class Student{
     int rollno;
     Student(int rollno){

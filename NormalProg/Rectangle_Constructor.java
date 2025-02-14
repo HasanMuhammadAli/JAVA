@@ -1,11 +1,12 @@
+package NormalProg;
 class Rectangle{
 	int length;
 	int width;
 
-	//This is parameterized constructor
-	Rectangle(int length, int width){
-		this.length = length;
-		this.width = width;
+	//This is constructor
+	Rectangle(){
+		length = 10;
+		width = 20;
 	}
 	void getdata(){
 		System.out.println("Length = "+length);
@@ -13,9 +14,9 @@ class Rectangle{
 	}
 }
 
-class Param_Constructor{
+class Rectangle_Constructor{
 	public static void main(String [] args){
-		Rectangle r_obj= new Rectangle(10,30);
+		Rectangle r_obj= new Rectangle();
 		r_obj.getdata();
 	}
 }

@@ -1,3 +1,4 @@
+package NormalProg;
 class StaticVarable{
     public static String name; //static variable name 
     public static String address; //static variable address

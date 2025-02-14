@@ -1,3 +1,4 @@
+package NormalProg;
 class DatatypeTest {
     public static void main(String[] args){
         byte b = 5;

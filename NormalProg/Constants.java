@@ -1,3 +1,4 @@
+package NormalProg;
 
 class ConstantsVar{
     //any static varaible with final keyword are reffered as constants.

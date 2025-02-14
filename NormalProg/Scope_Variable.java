@@ -1,3 +1,4 @@
+package NormalProg;
 //This code has errors of scope of variables.
 
 class Scope_Variable {

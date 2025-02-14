@@ -1,3 +1,4 @@
+package NormalProg;
 class Labeled_Loop{
 	public static void main(String []args){
 		int i,j;
