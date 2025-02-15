@@ -35,7 +35,8 @@ class EncapsulationMethods {
         c01.setAge(18);
         System.out.println(String.format("%s with id num: %s is %d years old.",c01.getName(),c01.getId(),c01.getAge()));
         //Below statement can't be executed as age is private member it can't be accessed directly we have to use class's method to access it.
-        //Likewise for all private/protected instance variables and methods.
         //System.out.println(c01.age);
+        //Likewise for all private/protected instance variables and methods.
+        
     }
 }
