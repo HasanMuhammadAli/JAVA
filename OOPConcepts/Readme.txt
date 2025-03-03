@@ -12,3 +12,4 @@ Polymorphism         -> [Vehical][SUV][MotorBike]                             ->
 Bank                 -> [Bank][BankAccount][SavingAccount][CurrentAccount]    -> Polymorphism
 Overriding1          -> [Animal][Dog]                                         -> Overriding
 Overloading          -> [Addition]                                            -> Method Overloading
+PaymentSystem        -> [PaymentSystem][Payment][CreditCard][UPI]             -> Polymorphism
