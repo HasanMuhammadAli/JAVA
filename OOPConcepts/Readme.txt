@@ -13,3 +13,4 @@ Bank                 -> [Bank][BankAccount][SavingAccount][CurrentAccount]    ->
 Overriding1          -> [Animal][Dog]                                         -> Overriding
 Overloading          -> [Addition]                                            -> Method Overloading
 PaymentSystem        -> [PaymentSystem][Payment][CreditCard][UPI]             -> Polymorphism
+GunDemo              -> [GunDemo][Gun][Pistol][USP][G18]                      -> Abstarct Class
