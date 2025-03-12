@@ -1,6 +1,6 @@
 package ExceptionHandling;
 
-class DivideZero {
+class Ex01 {
     public static void main(String[] args) {
         int n = 10;
         int m = 0;
