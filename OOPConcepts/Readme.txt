@@ -20,3 +20,4 @@ AbstarctVehical      -> [Vehical][Car][Truck][Bicycle][AbstarctVehical]         
 DMD                  -> [DMD][A][B][C]                                                  -> Dynamic Method Dispatch Concept
 DMD2                 -> [DMD2][Animal][Dog][Cat]                                        -> Dynamic Method Dispatch
 MultipleInheritance  -> [MultipleInheritance][Duck][Walkable][Swimmable][Flyable]       -> MultipleInheritance 
+ShapeInterface       -> [ShapeInterface][Shape][Rectangle][Circle]                      -> Interface
