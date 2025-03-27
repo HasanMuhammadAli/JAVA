@@ -2,7 +2,7 @@ package FileIO;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-class ByteStream2 {
+class ByteStreamOutput {
     public static void main(String[] args) throws IOException {
         FileReader in = null;
         FileWriter out = null;

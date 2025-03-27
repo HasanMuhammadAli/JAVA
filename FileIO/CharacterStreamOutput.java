@@ -2,7 +2,7 @@ package FileIO;
 import java.io.IOException;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
-class CharacterStream2 {
+class CharacterStreamOutput {
     public static void main(String[] args) throws IOException {
         FileInputStream in = null;
         FileOutputStream out = null;
